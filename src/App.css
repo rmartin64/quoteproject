@@ -1,0 +1,38 @@
+
+
+#quote-box {
+  width: 22rem;
+  word-wrap: break-word;
+padding: 1.5rem 2rem 1.5rem 2rem;
+background-color: #63DEED;
+color: #103FB7;
+border-radius: 2px;
+}
+
+#text {
+font-size: 1.2rem;
+font-weight: bold;
+}
+#author {
+  font-size: 0.8rem;
+  font-weight: light;
+}
+#new-quote {
+  background-color: #103FB7;
+  color: #63DEED;
+  font-size: 0.6rem;
+}
+#tweetbutton {
+  background-color: #103FB7;
+  color: #63DEED;
+  font-size: 0.6rem;
+}
+#new-quote:hover {
+  background-color: #134BD8;
+}
+#tweetbutton:hover {
+  background-color: #134BD8;
+}
+#rowing {
+  padding-top: 0.5rem;
+}
